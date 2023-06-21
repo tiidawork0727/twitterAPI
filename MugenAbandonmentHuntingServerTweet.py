@@ -1,4 +1,5 @@
 import tweepy
+import sys
 
 # Twitter APIキーとアクセストークンを設定
 local_api_key = ''
@@ -29,3 +30,6 @@ def tweet():
 # ツイートの送信
 tweet_text = tweet()
 print("Tweet sent:", tweet_text)
+
+# タスクを終了させる
+sys.exit()
