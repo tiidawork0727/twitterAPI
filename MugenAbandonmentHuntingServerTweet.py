@@ -7,7 +7,7 @@ local_access_token = ''
 local_access_token_secret = ''
 
 # ツイートする内容
-tweet_text = "ムゲン放置狩りサーバーを立ててみました！\r\n以下リンクでサーバーに参加出来ますので、興味ある方は参加お願いします～\r\nhttps://discord.gg/ab7vVRwJ3K"
+tweet_text = "ムゲン放置狩りサーバーまだまだメンバー募集中です！\r\n以下リンクでサーバーに参加出来ますので、興味ある方は参加お願いします～\r\nhttps://discord.gg/ab7vVRwJ3K\r\n#グラブル\r\n#ムゲン放置刈り"
 
 #グラブル 
 #ムゲン放置狩り"
